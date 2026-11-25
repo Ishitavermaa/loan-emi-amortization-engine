@@ -1,5 +1,3 @@
-# loan-emi-amortization-engine
-Python-based loan EMI calculator with amortization and repayment scenario analysis
 # Loan EMI & Amortization Engine with Scenario Analysis
 
 ## Project Overview
